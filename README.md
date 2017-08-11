@@ -4,6 +4,10 @@
 
 https://api.travis-ci.org
 
+[![Build Status](https://travis-ci.org/travis-ci/travis-api.svg?branch=master)](https://travis-ci.org/travis-ci/travis-api)
+
+https://api.travis-ci.org
+
 ## Requirements
 
 You will need the following packages to get travis-api to work:
